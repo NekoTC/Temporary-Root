@@ -18,7 +18,7 @@ android {
 
     defaultConfig {
         applicationId = "build.bytes.temproot"
-        minSdk = 32
+        minSdk = 31
         targetSdk = 37
         versionCode = 6
         versionName = "2.1"
